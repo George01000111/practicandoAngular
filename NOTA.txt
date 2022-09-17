@@ -1,0 +1,21 @@
+
+crear componentes
+ng g c home
+
+
+crear modulo y rutas en la carpeta home
+ng g m home --routing
+
+
+crear modulo y rutas en la carpeta admin primero tengo q crear la carpeta admin
+ng g m admin --routing
+
+
+crear el componente nav dentro de la carpeta admin
+ng g c admin/nav
+
+como instalar material
+https://www.youtube.com/watch?v=e4rNoUQdfQY
+
+pagina de material
+https://material.angular.io/
