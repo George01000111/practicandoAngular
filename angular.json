@@ -102,6 +102,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "practicandoAngular:build:production",
+            "firebaseProject": "praticando-angular",
+            "firebaseHostingSite": "praticando-angular"
+          }
         }
       }
     }

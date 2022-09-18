@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "praticando-angular"
+  },
+  "targets": {
+    "praticando-angular": {
+      "hosting": {
+        "practicandoAngular": [
+          "praticando-angular"
+        ]
+      }
+    }
+  }
+}
