@@ -27,4 +27,9 @@ ng g m material
 crear componentes
 ng g c admin/components/form-product
 
+Reactive Forms - Formularios
+https://www.youtube.com/watch?v=rC4wf5xo3R4
+
+ng g c admin/components/products-list
+
 
