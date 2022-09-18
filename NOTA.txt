@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=e4rNoUQdfQY
 
 pagina de material
 https://material.angular.io/
+
+crear modulo material
+ng g m material

@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { AdminRoutingModule } from './admin-routing.module';
 import { NavComponent } from './components/nav/nav.component';
+import { MaterialModule } from './../material/material.module';
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import { NavComponent } from './components/nav/nav.component';
   ],
   imports: [
     CommonModule,
-    AdminRoutingModule
+    AdminRoutingModule,
+    MaterialModule
   ]
 })
 export class AdminModule { }
